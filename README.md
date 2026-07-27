@@ -1,2 +1,3 @@
 # Chronostudy
-time tracker application
+
+time tracker application for study
